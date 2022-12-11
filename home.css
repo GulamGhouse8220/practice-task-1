@@ -1,0 +1,12 @@
+ header{
+    display: flex;
+    justify-content: flex-end;
+}
+li{
+    display: inline-block;
+    margin: 10px 20px;
+    font-weight: 600;
+}
+body{
+    background-color: aqua;
+}
